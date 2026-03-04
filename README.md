@@ -1,8 +1,6 @@
 # Walmart Sales Analysis
 
-# Project Overview
-
-### Goal
+## Goal
 Analyze Walmart’s weekly sales performance across stores and departments, identify seasonality and holiday effects, and evaluate whether external economic indicators correlate with sales trends.
 
 ---
