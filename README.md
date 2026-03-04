@@ -1,13 +1,5 @@
 # Walmart Sales Analysis
 
-## Dashboard Preview
-
-![Dashboard Page 1](images/walmart_sales_dashboard_page_1.png)
-
-![Dashboard Page 2](images/walmart_sales_dashboard_page_2.png)
-
----
-
 # Project Overview
 
 ### Goal
@@ -171,20 +163,3 @@ All comparisons are visualized using **dual-axis time series charts**.
 - **DAX**
 - **Excel / CSV datasets**
 
----
-
-# Project Files
-
-- Raw dataset files (`.CSV`)
-- Power BI dashboard file (`.PBIX`)
-
-Download files here:
-
-https://drive.google.com/drive/folders/1NuMQ4oy_7DXkL5ChmMDVm9Q59Rp5VY11?usp=drive_link
-
----
-
-# Author
-
-**Rayed**  
-Business Analyst transitioning into Data Analytics  
